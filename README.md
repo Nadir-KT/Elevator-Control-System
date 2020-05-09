@@ -4,7 +4,7 @@
 
 http://www.ia.omron.com/products/family/2064/
 
-Softwares Required :-
+Software Required :-
 
 CX-Programmer for CP1E
 
