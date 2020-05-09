@@ -12,6 +12,8 @@ RSLogix Micro English
 
 OMRON
 
+http://www.ia.omron.com/products/family/2064/
+
 Softwares Required :-
 
 CX-Programmer for CP1E
