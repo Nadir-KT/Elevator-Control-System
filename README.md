@@ -1,6 +1,6 @@
 # Elevator-Control-System
 
-1 Program for CP-series CP1E PLC (Programmable logic controller)
+1) Program for CP-series CP1E PLC (Programmable logic controller)
 
 http://www.ia.omron.com/products/family/2064/
 
@@ -8,7 +8,7 @@ Softwares Required :-
 
 CX-Programmer for CP1E
 
-2 Rockwell Automation (Allen-Bradley)
+2) Rockwell Automation (Allen-Bradley)
 
 Softwares Required :-
 
