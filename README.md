@@ -1,4 +1,4 @@
-# Elevator-Control-System
+# Elevator Control System
 
 1) Program for CP-series CP1E PLC (Programmable logic controller)
 
