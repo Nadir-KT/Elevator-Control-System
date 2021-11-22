@@ -8,7 +8,7 @@ Software Required :-
 
 CX-Programmer for CP1E
 
-2) Softwares Required for Allen-Bradley (Rockwell Automation) PLCs (Programmable logic controllers) :-
+2) Softwares Required for Allen-Bradley (Rockwell Automation) PLC (Programmable logic controllers) :-
 
 RSLinx Classic
 
