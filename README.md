@@ -1,6 +1,6 @@
 # Elevator Control System
 
-1) Program for CP-series CP1E PLC (Programmable logic controller)
+1) Program for CP-series CP1E PLC (Programmable logic controllers)
 
 https://www.ia.omron.com/products/family/2064/
 
