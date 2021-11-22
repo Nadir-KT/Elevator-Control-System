@@ -2,7 +2,7 @@
 
 1) Program for CP-series CP1E PLC (Programmable logic controller)
 
-http://www.ia.omron.com/products/family/2064/
+https://www.ia.omron.com/products/family/2064/
 
 Software Required :-
 
